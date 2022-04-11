@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+<p align="left" 
  Meu nome é joão,<strong>sou estudante de programação, e estou focado na linguegen javascript.</strong>.<br>
 </p>
 
